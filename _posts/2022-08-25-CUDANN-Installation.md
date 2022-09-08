@@ -21,8 +21,7 @@ comments: true
 **Warning:** Please make sure you are installing Visual Studio (2019) from older repos and installing them in 'C:'
 
  {: .box-note}
-**Note:** Install CUDA (11.2) for 2019.
-**Note:** Install CUDANN (8.1.x) version and extract the folders mentioned below
+**Note:** Install CUDA (11.2) for 2019 and CUDANN (8.1.x) version.
 
 #### PART-2:
 Paste these folders under the NVIDIA GPU Toolkit -> CUDA 11.2 -> /bin, /lib, /include
@@ -30,7 +29,7 @@ Paste these folders under the NVIDIA GPU Toolkit -> CUDA 11.2 -> /bin, /lib, /in
   - cudnn.h -> /include
   - cudnn.lib -> /lib/x64
 
-#### PART-2:
+#### PART-3:
 
  We need to add these paths to the sys path folder.
  - Control Panel -> System and Security-> System-> Advanced System settings.
@@ -38,9 +37,11 @@ Paste these folders under the NVIDIA GPU Toolkit -> CUDA 11.2 -> /bin, /lib, /in
  {: .box-note}
 **Note:** Usually you will find the two paths under the Environment path location. 
 
- - Assuming your path location C: -> CUDA.11/ 
+ Assuming your path location C: -> CUDA.11/ 
+
  {: .box-note}
 **Note:** Add the path of  'C:Users/Program Files/NVIDIA GPU Toolkit /CUDA.11/bin' folder as a path and save
+
 {: .box-note}
 **Note:** Add the path of  'C:Users/Program Files/NVIDIA GPU Toolkit /CUDA.11/libmnrv' folder as a path and save
 
