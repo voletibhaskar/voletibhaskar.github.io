@@ -22,7 +22,8 @@ author: Bhaskar Voleti
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Medium Articles: "https://medium.com/@bhaskarvoleti.curiousity"
+    - [New Medium Articles:]("https://medium.com/@bhaskarvoleti.curiousity"){:target="_blank"}
+    #- Medium Articles: "https://medium.com/@bhaskarvoleti.curiousity"
     - GitHub Projects: "https://github.com/voletibhaskar"
   Author's Home: "www.linkedin.com/in/bhaskar-voleti-profile"
 
