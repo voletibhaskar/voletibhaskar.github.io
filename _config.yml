@@ -22,7 +22,7 @@ author: Bhaskar Voleti
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - [New Medium Articles:]("https://medium.com/@bhaskarvoleti.curiousity"){:target="_blank"}
+    - [New Medium Articles:](https://medium.com/@bhaskarvoleti.curiousity){:target="_blank"}
     #- Medium Articles: "https://medium.com/@bhaskarvoleti.curiousity"
     - GitHub Projects: "https://github.com/voletibhaskar"
   Author's Home: "www.linkedin.com/in/bhaskar-voleti-profile"
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
