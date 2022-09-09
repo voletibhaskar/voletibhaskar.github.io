@@ -9,19 +9,23 @@ comments: true
 ---
 
 ## Pre-requisites to this Guide for Windows 11 CUDA, CUDANN Tensorflow installation:
-1. Install pip
-2. Install python 3.9
-3. Install VSCode and install venv
+1. Install python 3.9
+2. Install pip 
+3. Install VSCode and install Virtual Environment venv
 
 #### PART-1: 
  - Install Visual Studio (2019) for Windows 10/11 for CUDA and CUDANN.
+  - [Visual Studio 2019 Installation](https://visualstudio.microsoft.com/vs/older-downloads/)
  - After Visual Studio installation install CUDA (11.2) for 2019.
- 
+  - [CUDA 11.2 Installation](https://developer.nvidia.com/cuda-11.2.0-download-archive)
+  - After CUDA installation install CUDANN (8.2.x) for CUDA.
+  - [CUDA 11.2 Installation](https://developer.nvidia.com/rdp/cudnn-archive)
+
 {: .box-warning}
 **Warning:** Please make sure you are installing Visual Studio (2019) from older repos and installing them in 'C:'
 
  {: .box-note}
-**Note:** Install CUDA (11.2) for 2019 and CUDANN (8.1.x) version.
+**Note:** Install CUDA (11.2) for 2019 and CUDANN (8.2.x) version.
 
 #### PART-2:
 Paste these folders under the NVIDIA GPU Toolkit -> CUDA 11.2 -> /bin, /lib, /include
@@ -32,18 +36,18 @@ Paste these folders under the NVIDIA GPU Toolkit -> CUDA 11.2 -> /bin, /lib, /in
 #### PART-3:
 
  We need to add these paths to the sys path folder.
- - Control Panel -> System and Security-> System-> Advanced System settings.
+ Usually you will find the two paths mentioned under the Environment path location. s
+
+ 1. On the Windows taskbar, right-click the Windows icon and select System.
+ 2. In the Settings window, under Related Settings, click Advanced system settings.
+ 
+ ** Control Panel -> System and Security-> System-> Advanced System settings. ** 
 
  {: .box-note}
-**Note:** Usually you will find the two paths under the Environment path location. 
-
- Assuming your path location C: -> CUDA.11/ 
-
- {: .box-note}
-**Note:** Add the path of  'C:Users/Program Files/NVIDIA GPU Toolkit /CUDA.11/bin' folder as a path and save
+ Add the path and save 'C:Users/Program Files/NVIDIA GPU Toolkit /CUDA.11/bin'
 
 {: .box-note}
-**Note:** Add the path of  'C:Users/Program Files/NVIDIA GPU Toolkit /CUDA.11/libmnrv' folder as a path and save
+Add the path and save 'C:Users/Program Files/NVIDIA GPU Toolkit /CUDA.11/libmnrv'
 
 #### After installing GPU we need to add the following line to your code in the beginning if using VSCode:
 ~~~
@@ -54,7 +58,7 @@ Paste these folders under the NVIDIA GPU Toolkit -> CUDA 11.2 -> /bin, /lib, /in
 #### To run venv we need to initiate the following command
 
 {: .box-note}
-**Note:** Set-ExecutionPolicy Unrestricted -Scope Process
+Set-ExecutionPolicy Unrestricted -Scope Process
 
 #### Warning
 
