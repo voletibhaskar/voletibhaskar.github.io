@@ -2,9 +2,7 @@
 layout: post
 title: How to install Tensorflow GPU on Windows 11 for VSCode 
 subtitle: A detailed step-by-step explanation of the Tensorflow GPU installation process for VSCode. 
-gh-repo: voletibhaskar/Telangana-IPass-Data-Analysis
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [DevOps,CUDA,CUDANN,Windows,VSCode]
 comments: true
 ---
 
@@ -47,12 +45,17 @@ Paste these folders under the NVIDIA GPU Toolkit -> CUDA 11.2 -> /bin, /lib, /in
 {: .box-note}
 Add the path 'C:Users/Program Files/NVIDIA GPU Toolkit /CUDA.11/libmnrv'
 
+#### PART-4:
 
-#### After installing GPU we need to add the following line to your code in the beginning if using VSCode:
+In this part, we will be focusing on enabling your GPU to be used in Visual Studio Code.
+
+#### We need to add the following line to your code in the beginning on your code:
 ~~~
  - import os 
  - os.add_dll_directory("C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin")
 ~~~ 
+
+This will enable VS Code to access your CUDA if User do not have 'sudo' privilege to your system.
 
 #### To run venv we need to initiate the following command
 
