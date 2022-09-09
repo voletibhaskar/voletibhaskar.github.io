@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to install Tensorflow GPU on Windows 11 for VSCode 
-subtitle: A detailed step-by-step explanation of the Tensorflow GPU installation process for VSCode. 
+title: Enabling your GPU on Windows 11 for VSCode 
+subtitle: A detailed step-by-step explanation of the GPU installation process for VSCode. 
 tags: [DevOps,CUDA,CUDANN,Windows,VSCode]
 comments: true
 ---
