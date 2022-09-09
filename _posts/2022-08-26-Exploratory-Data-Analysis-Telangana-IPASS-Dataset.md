@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Enabling your GPU on Windows 11 for VSCode 
-subtitle: A detailed step-by-step explanation of the GPU installation process for VSCode. 
-tags: [DevOps,CUDA,CUDANN,Windows,VSCode]
+title: Exploratory Data Analysis on a Multivariate Dataset 
+subtitle: A detailed explanation of the Exploratory Data Analysis for the Telangana IPASS Dataset. 
+tags: [Python]
 comments: true
 ---
 
