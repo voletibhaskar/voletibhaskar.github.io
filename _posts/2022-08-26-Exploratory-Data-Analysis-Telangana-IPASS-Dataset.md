@@ -37,7 +37,7 @@ all_time_data.shape
 ~~~
 all_time_data.info()
 ~~~
-![Telangana IPASS Joint Dataset Info](voletibhaskar.github.io\assets\img\telangana_IPass_data_info.PNG)
+![Telangana IPASS Joint Dataset Info](voletibhaskar.github.io/assets/img/telangana_IPass_data_info.PNG)
 ~~~
 all_time_data.isnull( ).sum( )
 ~~~
