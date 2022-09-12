@@ -1,74 +1,49 @@
 ---
 layout: post
 title: Exploratory Data Analysis on a Multivariate Dataset 
-subtitle: A detailed explanation of the Exploratory Data Analysis for the Telangana IPASS Dataset. 
+subtitle: A detailed explanation of the Exploratory Data Analysis on the Telangana IPASS Dataset. 
 tags: [Python]
 comments: true
 ---
 
 ## Pre-requisites to this Guide for Windows 11 CUDA, CUDANN installation:
-1. Install python 3.9
-2. Install pip 
-3. Install VSCode and install Virtual Environment venv
+1. Install Pandas
+2. Install Plotly, Dash, Jupyter-Dash
+
+In this article, we will perform Exploratory Data Analysis on the Telaganana IPASS Dataset. We will clean, prune and visualize the dataset looking at various features of pandas. 
 
 #### PART-1: 
-- Install Visual Studio (2019) for Windows 10/11 for CUDA and CUDANN.
-  - [Visual Studio 2019 Installation Link](https://visualstudio.microsoft.com/vs/older-downloads/)
-- After Visual Studio installation install CUDA (11.2) for 2019.
-  - [CUDA 11.2 Installation Link](https://developer.nvidia.com/cuda-11.2.0-download-archive)
-- After CUDA installation install CUDANN (8.2.x) for CUDA.
-  - [CUDA 11.2 Installation Link](https://developer.nvidia.com/rdp/cudnn-archive)
+We add the directory to the 'path' and read all the csv files and merge them under a single file 'all_time_data'.
+
+~~~
+def main():
+    path = "./Telangana_Industries_TS_IPass"
+    files = [file for file in os.listdir(path) if not file.startswith('.')] # Ignore hidden files
+    all_time_data = pd.DataFrame()
+    for file in files:
+        current_data = pd.read_csv(path+"/"+file)
+        all_time_data = pd.concat([all_time_data, current_data])
+    all_time_data.to_csv("all_time_data_copy.csv", index=False)
+    return all_time_data
+if __name__ == "__main__":
+    all_time_data = main()
+~~~
+
+'all_time_data' has 17282 rows and 18 columns.
+~~~
+all_time_data.shape
+~~~  
+
+~~~
+all_time_data.info()
+~~~
+![Telangana IPASS Joint Dataset Info](voletibhaskar.github.io\assets\img\telangana_IPass_data_info.PNG)
+~~~
+all_time_data.isnull( ).sum( )
+~~~
 
 {: .box-warning}
 **Warning:** Please make sure you are installing Visual Studio (2019) from older repos and installing them in 'C:'
 
  {: .box-note}
 **Note:** Install CUDA (11.2) for 2019 and CUDANN (8.2.x) version.
-
-#### PART-2:
-Paste these folders under the NVIDIA GPU Toolkit -> CUDA 11.2 -> /bin, /lib, /include
-  - cudnn64_7.dll -> /bin
-  - cudnn.h -> /include
-  - cudnn.lib -> /lib/x64
-
-#### PART-3:
-
- We need to add these paths to the sys path folder.
- Usually you will find the two paths mentioned under the Environment path location.
-
- 1. On the Windows taskbar, right-click the Windows icon and select System.
- 2. In the Settings window, under Related Settings, click Advanced system settings.
- 
- {: .box-note}
- Add the path 'C:Users/Program Files/NVIDIA GPU Toolkit /CUDA.11/bin'
-
-{: .box-note}
-Add the path 'C:Users/Program Files/NVIDIA GPU Toolkit /CUDA.11/libmnrv'
-
-#### PART-4:
-
-In this part, we will be focusing on enabling your GPU to be used in Visual Studio Code.
-
-#### We need to add the following line to your code in the beginning on your code:
-~~~
- - import os 
- - os.add_dll_directory("C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v11.2/bin")
-~~~ 
-
-This will enable VS Code to access your CUDA if User do not have 'sudo' privilege to your system.
-
-#### To run venv we need to initiate the following command
-
-{: .box-note}
-Set-ExecutionPolicy Unrestricted -Scope Process
-
-{: .box-warning}
-**Warning:** Please ensure you are using the right path for the Testenv in place of 'YourPath'
-
-#### Initializing Virtual Environment Testenv:
-You can initiate the Venv using your path to 'Testenv'. Your 'Testenv' python executable with the concerned python file you want to use.
-
-~~~
- - & "YourPath/Testenv/Scripts/Activate.ps1"
- - & "YourPath/Testenv/Scripts/python.exe" "YourPath/Time_Series_Analysis/Time_Series.py"
-~~~
