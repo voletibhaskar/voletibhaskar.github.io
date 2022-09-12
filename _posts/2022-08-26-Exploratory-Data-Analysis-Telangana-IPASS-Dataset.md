@@ -6,7 +6,7 @@ tags: [Python]
 comments: true
 ---
 
-## Pre-requisites to this Guide for Windows 11 CUDA, CUDANN installation:
+## Pre-requisites to this Guide:
 1. Install Pandas
 2. Install Plotly, Dash, Jupyter-Dash
 
@@ -43,6 +43,65 @@ all_time_data.info()
 all_time_data.describe( )
 ~~~
 ![Telangana IPASS Joint Dataset Description](/assets/img/telangana_IPass_data_describe.PNG)
+
+~~~
+all_time_data.nunique()
+~~~
+![Telangana IPASS Joint Dataset Unique](/assets/img/telangana_IPass_data_unique.PNG)
+
+We need to understand various investments, employees per year so we take the application date and rank these values by application dates.
+~~~
+all_time_data['application_date'] = pd.to_datetime(all_time_data['application_date'])
+all_time_data['approval_date'] = pd.to_datetime(all_time_data['approval_date'])
+all_time_data.sort_values(by='application_date', inplace=True)
+all_time_data['Year'] = pd.to_datetime(all_time_data['application_date']).dt.year
+~~~
+
+#### PART-2: 
+
+We need to answer the following questions:
+1. Sum of all employees, investment year wise ?
+
+Answer: 
+We group the data by year and then map the sum of the ivestment annually.
+~~~
+all_time_data.groupby(['Year']).sum()
+years = range(2016,2023)
+plt.bar(years,all_time_data.groupby(['Year']).sum()['investment'])
+~~~
+![Year Wise Data](/assets/img/telangana_IPass_data_year_wise.PNG)
+
+![Year Wise Bar Chart](/assets/img/telangana_IPass_data_year_wise_bar.PNG)
+
+2. What was the social status demogrpahics of investments in Telangana?
+
+Answer:
+
+~~~
+all_time_data.groupby(['social_status']).median()
+~~~
+![Social Status Wise Median](/assets/img/telangana_IPass_social_status_investment_median.PNG)
+
+![Social Status Wise Median](/assets/img/telangana_IPass_social_status_investment_bar.PNG)
+
+
+3. What was the average time taken for approval industry wise in Telangana?
+
+~~~
+all_time_data['Time Taken'] = all_time_data['approval_date']-all_time_data['application_date']
+all_time_data['Time Taken'] = all_time_data['Time Taken'].dt.days.astype('int64')
+Time_taken_genuine = all_time_data[all_time_data['Time Taken']>0]
+time_taken_for_sector_approval = all_time_data[["sector","application_date", "Time Taken","progress_of_implementation"]]
+time_taken_for_sector_approval.groupby(['sector']).median().plot.bar()
+~~~
+![Social Status Wise Median](/assets/img/telangana_IPass_sector_year_wise_investment.PNG)
+
+
+4. What was the average investment, employees, Approval time for districts wise analysis?
+
+5. What was the average investment, employees, Approval time for sector wise analysis? 
+
+
 
 {: .box-warning}
 **Warning:** Please make sure you are installing Visual Studio (2019) from older repos and installing them in 'C:'
