@@ -82,7 +82,7 @@ all_time_data.groupby(['social_status']).median()
 ~~~
 ![Social Status Wise Median](/assets/img/telangana_IPass_social_status_investment_median.PNG)
 
-![Social Status Wise Median](/assets/img/telangana_IPass_social_status_investment_bar.PNG)
+![Social Status Bar Chart](/assets/img/telangana_IPass_social_status_investment_bar.PNG)
 
 
 3. What was the average time taken for approval industry wise in Telangana?
@@ -94,10 +94,36 @@ Time_taken_genuine = all_time_data[all_time_data['Time Taken']>0]
 time_taken_for_sector_approval = all_time_data[["sector","application_date", "Time Taken","progress_of_implementation"]]
 time_taken_for_sector_approval.groupby(['sector']).median().plot.bar()
 ~~~
-![Social Status Wise Median](/assets/img/telangana_IPass_sector_year_wise_investment.PNG)
+
+![Sector Wise Investment Median](/assets/img/telangana_IPass_sector_year_wise_investment.PNG)
+
+~~~
+all_time_data.groupby(['sector']).median()
+~~~
+![Sector Wise Investment Median](/assets/img/telangana_IPass_sector_year_wise_median_data.PNG)
 
 
 4. What was the average investment, employees, Approval time for districts wise analysis?
+
+~~~
+all_time_data.groupby(['district']).median().sort_values(by=['investment'])
+~~~
+ {: .box-note}
+**Note:** Data present in the table is not the full representation of every district.
+
+![District Wise Investment Median](/assets/img/telangana_IPass_district_year_wise_median_data.PNG)
+
+We also map the sum of all the investments in every sector and we achieve this graph.
+~~~
+sector_keys = [status for status, all_time_data in all_time_data.groupby(['sector'])]
+plt.bar(sector_keys,all_time_data.groupby(['sector']).sum()['investment'])
+plt.ylabel('Investment in Rupees Cr.')
+plt.xlabel('social_status')
+plt.xticks(sector_keys, rotation='vertical', size=8)
+plt.show()
+~~~
+
+![District Wise Investment Median](/assets/img/telangana_IPass_district_year_wise_median_data.PNG)
 
 5. What was the average investment, employees, Approval time for sector wise analysis? 
 
