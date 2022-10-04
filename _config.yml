@@ -76,7 +76,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof of my projects
+rss-description: This website is a repository of all my writings about various Projects posted on my Github Profile.
 
 ###########################
 # --- General options --- #

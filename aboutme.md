@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to hire me.
+title: My Description
+subtitle: Finance Student at Humber College
 ---
 
 🙋🏾‍♂️Hello! Welcome to my LinkedIn. My name is Bhaskar Voleti and I’m currently looking for Winter 2023 Co-op opportunities as a Data Scientist/ Data Analyst.💼
