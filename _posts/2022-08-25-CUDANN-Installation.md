@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Enabling your GPU on Windows 11 for VSCode 
-subtitle: A detailed step-by-step explanation of the GPU installation process for VSCode. 
+subtitle: A detailed step-by-step explanation of the GPU installation process for VSCode.
+cover-img: /assets/img/GPU-Illustration.jpg
 tags: [DevOps,CUDA,CUDANN,Windows,VSCode]
 comments: true
 ---
