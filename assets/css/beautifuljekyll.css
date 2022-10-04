@@ -264,6 +264,7 @@ img {
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   padding: 0.625rem;
   text-shadow : 2px 1px #ff0000;
+  font-weight: 800;
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   text-decoration: none !important;
   font-weight: 800;
