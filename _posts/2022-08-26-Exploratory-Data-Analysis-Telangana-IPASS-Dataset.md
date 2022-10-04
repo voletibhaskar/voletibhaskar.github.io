@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Exploratory Data Analysis on a Multivariate Dataset 
-subtitle: A detailed explanation of the Exploratory Data Analysis on the Telangana IPASS Dataset.
+#title: Exploratory Data Analysis on a Multivariate Dataset 
+#subtitle: A detailed explanation of the Exploratory Data Analysis on the Telangana IPASS Dataset.
 cover-img: /assets/img/Telangana-Image.JPG
 tags: [Python]
 comments: true
