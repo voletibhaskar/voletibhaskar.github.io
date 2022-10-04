@@ -191,6 +191,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
   font-weight: 800;
+  text-shadow : 2px 2px #ff0000;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
@@ -262,9 +263,11 @@ img {
 
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   padding: 0.625rem;
+  text-shadow : 2px 1px #ff0000;
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   text-decoration: none !important;
   font-weight: normal;
+  
   color: {{ site.navbar-text-col | default: "#404040" }};
   {% unless site.navbar-var-length %}
   white-space: normal;
