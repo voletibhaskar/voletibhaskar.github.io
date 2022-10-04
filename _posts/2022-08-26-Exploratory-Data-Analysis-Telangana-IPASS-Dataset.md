@@ -124,13 +124,3 @@ plt.show()
 ~~~
 
 ![District Wise Investment Median](/assets/img/telangana_IPass_district_year_wise_median_data.PNG)
-
-5. What was the average investment, employees, Approval time for sector wise analysis? 
-
-
-
-{: .box-warning}
-**Warning:** Please make sure you are installing Visual Studio (2019) from older repos and installing them in 'C:'
-
- {: .box-note}
-**Note:** Install CUDA (11.2) for 2019 and CUDANN (8.2.x) version.
