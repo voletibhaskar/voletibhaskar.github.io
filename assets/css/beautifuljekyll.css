@@ -266,7 +266,7 @@ img {
   text-shadow : 2px 1px #ff0000;
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   text-decoration: none !important;
-  font-weight: normal;
+  font-weight: 800;
   
   color: {{ site.navbar-text-col | default: "#404040" }};
   {% unless site.navbar-var-length %}
