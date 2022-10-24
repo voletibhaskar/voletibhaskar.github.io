@@ -267,9 +267,9 @@ img {
 /*  text-shadow : 2px 1px #ff0000; */
   font-weight: 800;
 /*  background-color: {{ site.navbar-col | default: "#EAEAEA" }}; */
-  background-color:  #2716bb;
+
   text-decoration: none !important;
-  
+  background-color:  #2716bb;
   color: {{ site.navbar-text-col | default: "#404040" }};
   {% unless site.navbar-var-length %}
   white-space: normal;
