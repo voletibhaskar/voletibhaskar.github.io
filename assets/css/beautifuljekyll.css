@@ -266,7 +266,8 @@ img {
   padding: 0.625rem;
 /*  text-shadow : 2px 1px #ff0000; */
   font-weight: 800;
-  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
+/*  background-color: {{ site.navbar-col | default: "#EAEAEA" }}; */
+  background-color:  #2716bb;
   text-decoration: none !important;
   
   color: {{ site.navbar-text-col | default: "#404040" }};
