@@ -10,6 +10,7 @@ subtitle: Finance Student at Humber College
 
  ✨I have found passion in developing and sustaining ETL Data Pipelines for various clients in North America and Europe across various sectors, generating Business insights. I have expertise in various programming languages and visualization tools including Python, SAS, SQL, Tableau, PowerBI etc. 📈
 
-🧘🏾‍♂️ What do I do outside of work? I love to spend some quality time with my friends/family and keep myself busy with visualizations and data science storytelling projects.
+Programming Languages: Python, SQL, SAS
+Data Visualization: Tableau, PowerBI
 
 🗣 Enough about me!! I’d love to get to know you as well! Feel free to reach out to me for coffee chats and all things related to Analytics at [LinkedIn](https://www.linkedin.com/in/bhaskar-voleti-profile/) 😊
