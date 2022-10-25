@@ -8,9 +8,10 @@ subtitle: Finance Student at Humber College
 
 👨🏾‍🎓After completing my undergraduate degree in Computer Science, I started my career as a Data Scientist at [Labyrinth Technologies](https://labyrinth.ai/) and was fortunate enough to work on interesting problems in Machine Learning, Computer Vision, Data Analytics. 🔍
 
- ✨I have found passion in developing and sustaining ETL Data Pipelines for various clients in North America and Europe across various sectors, generating Business insights. I have expertise in various programming languages and visualization tools including Python, SAS, SQL, Tableau, PowerBI etc. 📈
+ ✨I have found passion in developing and sustaining ETL Data Pipelines for various clients in North America and Europe across various sectors, generating Business insights.📈
 
-Programming Languages: Python, SQL, SAS
-Data Visualization: Tableau, PowerBI
+**Programming Languages**: Python, SQL, SAS
+
+**Data Visualization**: Tableau, PowerBI
 
 🗣 Enough about me!! I’d love to get to know you as well! Feel free to reach out to me for coffee chats and all things related to Analytics at [LinkedIn](https://www.linkedin.com/in/bhaskar-voleti-profile/) 😊
