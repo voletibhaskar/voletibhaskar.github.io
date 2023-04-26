@@ -3,11 +3,13 @@ layout: post
 title: Enabling your GPU on Windows 11 for VSCode 
 subtitle: A detailed step-by-step explanation of the GPU installation process for VSCode.
 cover-img: /assets/img/GPU-Illustration.jpg
-tags: [DevOps,CUDA,CUDANN,Windows,VSCode]
+tags: [DevOps]
 comments: true
 ---
 
-## Pre-requisites to this Guide for Windows 11 CUDA, CUDANN installation:
+Let's understand the procedure to install Visual Studio, CUDA and CUDANN for Windows. This tutorial is a breif explanation and can be used to solve the Graphics Card usage in Windows.
+
+## Pre-requisites:
 1. Install python 3.9
 2. Install pip 
 3. Install VSCode and install Virtual Environment venv
