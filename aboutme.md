@@ -4,14 +4,15 @@ title: My Description
 subtitle: Finance Student at Humber College
 ---
 
-🙋🏾‍♂️Hello! Welcome to my LinkedIn. My name is Bhaskar Voleti and I’m currently looking for Winter 2023 Co-op opportunities as a Data Scientist/ Data Analyst. I am pursuing Global Business Management in Financial Planning at Humber College. 💼
+My name is Bhaskar Voleti and I’m currently looking for opportunities as a Data Scientist/ Data Analyst. I recently graduated from Humber College in Global Business Management.
 
-👨🏾‍🎓After completing my undergraduate degree in Computer Science, I started my career as a Data Scientist at [Labyrinth Technologies](https://labyrinth.ai/) and was fortunate enough to work on interesting problems in Machine Learning, Computer Vision, Data Analytics. 🔍
+I completed my B.Tech Engineering degree in Computer Science from [VIT University](https://vit.ac.in/) and started my career as a Python Developer - Data Analytics at [Labyrinth AI](https://labyrinth.ai/) and was fortunate enough to work on interesting problems in Machine Learning, Computer Vision, Data Analytics using AWS, Azure Cloud services. 🔍
 
- ✨I have found passion in developing and sustaining ETL Data Pipelines for various clients in North America and Europe across various sectors, generating Business insights.📈
+ ✨I have found passion in developing and deploying ETL Data Pipelines for various clients in North America and Europe generating Business insights and providing Analytical dashboards.📈
 
 **Programming Languages**: Python, SQL, SAS
+**Tools**: Amazon Web Services, Azure Cloud Services
+**Skills**: Financial Analytics, Web Analytics, Data Analytics
+**Data Visualization**: Tableau, PowerBI, Excel
 
-**Data Visualization**: Tableau, PowerBI
-
-🗣 Enough about me!! I’d love to get to know you as well! Feel free to reach out to me for coffee chats and all things related to Analytics at [LinkedIn](https://www.linkedin.com/in/bhaskar-voleti-profile/) 😊
+I’d love to get to know you as well! Feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/bhaskar-voleti-profile/) 😊
