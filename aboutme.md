@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Description
-subtitle: Finance Student at Humber College
+subtitle: Post Graduate Student in Business Management at Humber College
 ---
 
 My name is Bhaskar Voleti and I’m currently looking for opportunities as a Data Scientist/ Data Analyst. I recently graduated from Humber College in Global Business Management.
