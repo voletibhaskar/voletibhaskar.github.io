@@ -10,9 +10,9 @@ comments: true
 Let's process EDA for Telangana's Industrial setup. This documentation is a breif overview of the entire dataset exploration and will focus only on the important findings.
 
 # Table of Contents
-1. Pre-Requisites
-2. Data Extraction & Cleaning
-3. Data Insights
+1. [Pre-Requisites](#pre-requisites-to-this-guide)
+2. [Data Extraction & Cleaning](#data-extraction--cleaning)
+3. [Data Insights](#data-insights)
 
 
 ## Pre-requisites to this Guide:
