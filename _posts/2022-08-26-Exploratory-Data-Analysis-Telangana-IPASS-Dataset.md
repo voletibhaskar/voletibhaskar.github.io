@@ -7,13 +7,21 @@ tags: [Python]
 comments: true
 ---
 
+Let's process EDA for Telangana's Industrial setup. This documentation is a breif overview of the entire dataset exploration and will focus only on the important findings.
+
+# Table of Contents
+1. Pre-Requisites
+2. Data Extraction & Cleaning
+3. Data Insights
+
+
 ## Pre-requisites to this Guide:
 1. Install Pandas
 2. Install Plotly, Dash, Jupyter-Dash
 
 In this article, we will perform Exploratory Data Analysis on the Telaganana IPASS Dataset. We will clean, prune and visualize the dataset looking at various features of pandas. 
 
-#### PART-1: 
+#### Data Extraction & Cleaning: 
 We add the directory to the 'path' and read all the csv files and merge them under a single file 'all_time_data'.
 
 ~~~
@@ -58,7 +66,7 @@ all_time_data.sort_values(by='application_date', inplace=True)
 all_time_data['Year'] = pd.to_datetime(all_time_data['application_date']).dt.year
 ~~~
 
-#### PART-2: 
+#### Data Insights: 
 
 We need to answer the following questions:
 1. Sum of all employees, investment year wise ?
