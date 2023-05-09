@@ -24,7 +24,6 @@ Royal Bank of Canada (RY) has a diversified revenue stream across various segmen
 
 Check out this great resource for all your analytics. [Stratosphere.io](https://www.stratosphere.io/signup/?referralCode=IhNpdbdUphQb9PUvFqlT1y0skVz2) 
 
-We can understand 
 
 And while Investment Banking revenues were down 39% from very strong results last year, they outperformed global fee pools, which were down 55%. Consequently, RBC Capital Markets ranked seventh in Global League Tables this quarter, moving up 1 spot to 9 looking at the last 12 months. Looking to the future, RBC continues to focus on diversifying revenue streams across higher ROE advisory and origination activities. They've been actively hiring managing directors across industry verticals and geographies while also expanding our client coverage. These have been factors in their move-up in global league tables. With that said, an uncertain macro and geopolitical backdrop, volatility across asset classes and higher financing costs remain the biggest challenges to M&A activity.
 
