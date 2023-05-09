@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Canadian Finacial Situation - Royal Bank of Canada 
-subtitle: A detailed understanding of the Canadian Financial Industry through Data.
+subtitle: A detailed understanding of the Canadian Banking Giant RBC.
 cover-img: /assets/img/Canada-Finance.jpeg
 tags: [Finance, Python]
 comments: true
 ---
+
+RBC was founded in 1864 and is headquartered in Toronto, Ontario, Canada. It operates as a diversified financial services company, offering a wide range of personal and commercial banking, wealth management, insurance, and investment services.
 
 ## Table of Contents
 1. [Introduction](#introduction)
