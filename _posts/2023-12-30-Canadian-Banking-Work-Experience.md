@@ -37,13 +37,14 @@ In the USA, the Bureau of Labor Statistics predicts a 14% increase in demand for
 
 As businesses continue to rely on data-driven insights, the need for professionals with strong technical and analytical skills is expected to remain robust. Therefore, pursuing a career as a business systems analyst in both Canada and the USA presents promising opportunities for individuals with the right qualifications and expertise.
 
+
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG01Zm83NGYyOGt3YWlvY2t3bG50MTJ3b2IycTBmd20xeHk1c3ZhbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WyrdDeIxGOlQA/giphy.gif)
+
 ### Entry Level Requirements
 
 The entry-level technical job requirements for a business systems analyst typically include a bachelor's degree in IT, information systems, business administration, or a related field such as economics, finance, accounting, psychology, computer science, or mathematics. Additionally, obtaining a data analytics certificate can be valuable. 
 
 Candidates should possess strong analytical and problem-solving skills, along with the ability to gather and define requirements, configure and implement new systems, write and execute test plans, and troubleshoot complex system issues. Familiarity with data analysis tools, business intelligence software, and IT products is also beneficial. 
-
-Excellent communication and teamwork skills are essential for collaborating with stakeholders and delivering effective solutions. Pursuing an introductory course in IT to learn the fundamentals of data analytics can provide a head start in this career. 
 
 Entry-level business analysts typically perform tasks such as generating reports, performing detailed research and analysis, and assisting with solution development. Strong technical and analytical skills, along with a solid understanding of business processes, are key for success in this role
 
@@ -59,19 +60,25 @@ The following are the steps I recommend you take follow to land your first role.
     * In the summary, showcase your **expertise**, **experience** and **unique value proposition**. 
     * Highlight your ability to bridge the gap between IT and business, problem-solving skills, and contributions to organizational efficiency.
 
+
 2. Experience and Specialization:
+
     * Highlight your experience and specialization in areas such as Data Modelling, SQL, Python, and other relevant coding languages to attract the right prospects and recruiters.
     * Create projects aligned to the field and business you are trying to access. 
     * The majority of the projects that are present online have been replicated, duplicated and copied over millions of times and essentially makes your effort null.
     * Generate projects which have an end-to-end functionality that can be simple but are unique utilizing the latest tech stack for relevance.
 
+
 3. Access to Jobs:
+
     * Let's be clear. We need a **simple looking resume with the right ATS formatting** for AI to pick your resume.
     * Highlight few points as per **STAR method** for your experience and mention your unique projects.
     * **Create job alerts** and apply to the company's websites directly. No number of Easy applies will help you access jobs.
     * Accept that the jobs that you are applying might not reply back to you, so don't loose hope. You will get that call back.
 
+
 4. Does Networking really help?
+
     * Sources suggest that **upwards of 85% of open positions are filled through networking**, and around 70-80% of people end up in their current position thanks to networking.
     * In terms of specific response rates, it has been reported that the response rate on networking emails to **people who attended the same college is approximately 30%**, while cold **"no connection" emails have a response rate of around 10%**.
 
