@@ -54,14 +54,14 @@ Entry-level business analysts typically perform tasks such as generating reports
 
 The following are the steps I recommend you take follow to land your first role. I have attached resources with every topic, that might help you out.
 
-1. Headline and Summary:
+* Headline and Summary:
 
     * Craft a captivating headline that includes relevant keywords, such as **Business Systems Analyst**, **Data Analytics** and **IT Specialist** to enhance search visibility. 
     * In the summary, showcase your **expertise**, **experience** and **unique value proposition**. 
     * Highlight your ability to bridge the gap between IT and business, problem-solving skills, and contributions to organizational efficiency.
 
 
-2. Experience and Specialization:
+* Experience and Specialization:
 
     * Highlight your experience and specialization in areas such as Data Modelling, SQL, Python, and other relevant coding languages to attract the right prospects and recruiters.
     * Create projects aligned to the field and business you are trying to access. 
@@ -69,7 +69,7 @@ The following are the steps I recommend you take follow to land your first role.
     * Generate projects which have an end-to-end functionality that can be simple but are unique utilizing the latest tech stack for relevance.
 
 
-3. Access to Jobs:
+* Access to Jobs:
 
     * Let's be clear. We need a **simple looking resume with the right ATS formatting** for AI to pick your resume.
     * Highlight few points as per **STAR method** for your experience and mention your unique projects.
@@ -77,7 +77,7 @@ The following are the steps I recommend you take follow to land your first role.
     * Accept that the jobs that you are applying might not reply back to you, so don't loose hope. You will get that call back.
 
 
-4. Does Networking really help?
+* Does Networking really help?
 
     * Sources suggest that **upwards of 85% of open positions are filled through networking**, and around 70-80% of people end up in their current position thanks to networking.
     * In terms of specific response rates, it has been reported that the response rate on networking emails to **people who attended the same college is approximately 30%**, while cold **"no connection" emails have a response rate of around 10%**.
