@@ -2,7 +2,6 @@
 layout: post
 title: Whats happening to Canada ?
 subtitle: Analyzing Canada's Socio-Economic Condition A Series to 2024.
-cover-img: /assets/img/canada-economic-flag.jpeg
 tags: [Canada, Finance]
 comments: true
 ---
@@ -17,6 +16,7 @@ The Top Socio-Economic Trends Shaping Canada in 2024. This is the first part of 
     a. [Government Debt Status](#government-debt-status)
     b. [Canada's Inflation Rate - Provincial Analysis](#canadas-inflation-rate---provincial-analysis)
     c. [Canada's Inflation Rate - Sector Analysis](#canadas-inflation-rate---sector-analysis)
+3. [Key Takeaways](#key-takeaways)
 
 ### Introduction to Canadian economy after COVID
  
