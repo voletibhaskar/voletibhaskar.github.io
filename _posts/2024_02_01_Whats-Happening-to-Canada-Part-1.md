@@ -44,7 +44,7 @@ When we have such unsustainable amounts of Government Debt, the economy doesn't 
 
 #### Canada's Inflation Rate - Provincial Analysis
 
-![Alt text]( /assests/img/Whats_happening_to_Canada/Provincial_Inflation_Image.png "Canadian Provincial Inflation Rate")
+![Alt text]( /assests/img/Whats_happening_to_Canada/Provincial_Inflation_Image.PNG "Canadian Provincial Inflation Rate")
 
 In December 2023, Canada's Consumer Price Index (CPI) rose by 3.4% compared to December 2022. 
 
@@ -54,7 +54,7 @@ Manitoba (1.7%) had the lowest rate of inflation, followed by Prince Edward Isla
 
 #### Canada's Inflation Rate - Sector Analysis
 
-![Alt text]( /assests/img/Whats_happening_to_Canada/Provincial_Sector_Inflation_Image.png "Canadian Sector Inflation Rate")
+![Alt text]( /assests/img/Whats_happening_to_Canada/Provincial_Sector_Inflation_Image.PNG "Canadian Sector Inflation Rate")
 
 The provided data presents the Consumer Price Index (CPI) for various products and product groups in Canada from December 2022 to December 2023. Here are some key insights from the data:
 
