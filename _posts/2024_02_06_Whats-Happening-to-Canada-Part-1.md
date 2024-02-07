@@ -2,7 +2,7 @@
 layout: post
 title: Whats happening to Canada ?
 subtitle: Analyzing Canada's Socio-Economic Condition A Series to 2024.
-cover-img: /assets/img/canada-economic-flag.jpg
+cover-img: /assets/img/canada-economic-flag.jpeg
 tags: [Canada, Finance]
 comments: true
 ---
