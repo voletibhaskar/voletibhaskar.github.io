@@ -12,11 +12,11 @@ The Top Socio-Economic Trends Shaping Canada in 2024. This is the first part of 
 ## Table of Contents
 ### Part 1
 
-1. [Introduction to Canadian economy after COVID](#introduction)
-2. [Government's Economic Status](#government-status)
+1. [Introduction to Canadian economy after COVID](#introduction-to-canadian-economy-after-covid)
+2. [Government's Economic Status](#governments-economic-status)
     a. [Government Debt Status](#government-debt-status)
-    b. [Canada's Inflation Rate - Provincial Analysis](#government-inflation-provincial)
-    c. [Canada's Inflation Rate - Sector Analysis](#government-inflation-sector)
+    b. [Canada's Inflation Rate - Provincial Analysis](#canadas-inflation-rate---provincial-analysis)
+    c. [Canada's Inflation Rate - Sector Analysis](#canadas-inflation-rate---sector-analysis)
 
 ### Introduction to Canadian economy after COVID
  
