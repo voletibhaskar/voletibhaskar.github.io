@@ -2,7 +2,7 @@
 layout: post
 title: Whats happening to Canada ?
 subtitle: Analyzing Canada's Socio-Economic Condition A Series to 2024.
-cover-img: /assets/img/Whats_happening_to_Canada/canada-economic-flag.jpeg
+cover-img: /assets/img/canada-economic-flag.jpeg
 tags: [Canada, Finance]
 comments: true
 ---
@@ -45,7 +45,7 @@ When we have such unsustainable amounts of Government Debt, the economy doesn't 
 
 #### Canada's Inflation Rate - Provincial Analysis
 
-![Alt text](voletibhaskar.github.io/assets/img/Whats_happening_to_Canada/Provincial_Inflation_Image.PNG "Provincial Inflation Rate")
+![Alt text](/assets/img/Provincial_Inflation_Image.PNG "Provincial Inflation Rate")
 
 In December 2023, Canada's Consumer Price Index (CPI) rose by 3.4% compared to December 2022. 
 
@@ -55,7 +55,7 @@ Manitoba (1.7%) had the lowest rate of inflation, followed by Prince Edward Isla
 
 #### Canada's Inflation Rate - Sector Analysis
 
-![Alt text](voletibhaskar.github.io/assets/img/Whats_happening_to_Canada/Provincial_Sector_Inflation_Image.PNG)
+![Alt text](assets/img/Provincial_Sector_Inflation_Image.PNG)
 
 The provided data presents the Consumer Price Index (CPI) for various products and product groups in Canada from December 2022 to December 2023. Here are some key insights from the data:
 
