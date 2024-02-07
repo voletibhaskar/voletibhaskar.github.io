@@ -2,6 +2,7 @@
 layout: post
 title: Whats happening to Canada ?
 subtitle: Analyzing Canada's Socio-Economic Condition A Series to 2024.
+cover-img: /assets/img/Whats_happening_to_Canada/canada-economic-flag.jpeg
 tags: [Canada, Finance]
 comments: true
 ---
@@ -32,6 +33,8 @@ The government implemented various measures to respond to these impacts, targeti
 
 #### Government Debt Status
 
+![Alt text](https://tradingeconomics.com/embed/?s=candebt2gdp&projection=te&v=202309250905v20230410&w=850&h=400&h=300&w=600&ref=/canada/government-debt-to-gdp' "Debt to GDP Ratio")
+
 The **debt-to-GDP ratio of Canada** is a key indicator of the country's fiscal health. As of 2024, the IMF officially reported Canada's debt-to-GDP ratio as **106%**. However, the **World Economics GDP** database suggests a lower ratio of **91.9% when using Purchasing Power Parity terms**. 
 
 This indicates a significant level of government debt relative to the size of the economy. According to Fitch Ratings, they project the general government **gross debt (GGGD) to decline further to 96.5% by 2025**. 
@@ -42,6 +45,8 @@ When we have such unsustainable amounts of Government Debt, the economy doesn't 
 
 #### Canada's Inflation Rate - Provincial Analysis
 
+![Alt text](voletibhaskar.github.io/assets/img/Whats_happening_to_Canada/Provincial_Inflation_Image.PNG "Provincial Inflation Rate")
+
 In December 2023, Canada's Consumer Price Index (CPI) rose by 3.4% compared to December 2022. 
 
 The highest inflation rates were observed in Quebec (4.0%) and Nova Scotia (3.6%), while Newfound and Labrador, Ontario, and British Columbia had a rate of 3.4%. 
@@ -49,6 +54,8 @@ The highest inflation rates were observed in Quebec (4.0%) and Nova Scotia (3.6%
 Manitoba (1.7%) had the lowest rate of inflation, followed by Prince Edward Island (2.6%), Saskatchewan (2.7%), New Brunswick (2.9%), and Alberta (3.0%). In British Columbia, consumer prices increased by 3.6% in Vancouver and 2.8% in Victoria.
 
 #### Canada's Inflation Rate - Sector Analysis
+
+![Alt text](voletibhaskar.github.io/assets/img/Whats_happening_to_Canada/Provincial_Sector_Inflation_Image.PNG)
 
 The provided data presents the Consumer Price Index (CPI) for various products and product groups in Canada from December 2022 to December 2023. Here are some key insights from the data:
 
