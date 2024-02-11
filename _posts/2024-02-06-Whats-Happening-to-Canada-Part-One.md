@@ -33,7 +33,7 @@ The government implemented various measures to respond to these impacts, targeti
 
 #### Government Debt Status
 
-![Alt text](/assets/img/Goverment_Debt_Status_Image.jpeg "Canada's Debt Condition")
+![Image](/assets/img/Goverment_Debt_Status_Image.jpeg =300x100)
 
 The **debt-to-GDP ratio of Canada** is a key indicator of the country's fiscal health. As of 2024, the IMF officially reported Canada's debt-to-GDP ratio as **106%**. However, the **World Economics GDP** database suggests a lower ratio of **91.9% when using Purchasing Power Parity terms**. 
 
@@ -45,7 +45,7 @@ When we have such unsustainable amounts of Government Debt, the economy doesn't 
 
 #### Canada's Inflation Rate - Provincial Analysis
 
-![Alt text](/assets/img/Provincial_Inflation_Image.jpeg "Canada's Provincial Inflation")
+![Image](/assets/img/Provincial_Inflation_Image.jpeg =300x100)
 
 In December 2023, Canada's Consumer Price Index (CPI) rose by 3.4% compared to December 2022. 
 
