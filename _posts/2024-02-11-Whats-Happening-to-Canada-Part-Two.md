@@ -7,12 +7,12 @@ tags: [Canada, Finance]
 comments: true
 ---
 
-The Top Socio-Economic Trends Shaping Canada in 2024. This is the second part of the series discussing all aspects related to Canada for 2024.
+The Top Socio-Economic Trends Shaping Canada in 2025. This is the second part of the series discussing all aspects related to Canada for 2024-25.
 
 ## Table of Contents
 ### Part 2
 
-1. [Introduction to Part-1](#introduction-to-part-1)
+1. [Introduction to DeepSeek-R1](#introduction-to-part-1)
 2. [Government's Political Status](#governments-political-status)
 
 
