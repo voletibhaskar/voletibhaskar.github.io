@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Whats happening to Canada Part 2 ?
-subtitle: Analyzing Canada's Socio-Economic Condition A Series to 2024.
+title: Whats happening to Canada Part 2
+subtitle: Analyzing Canada's Socio-Economic Condition 2025.
 cover-img: /assets/img/Canada-Politics-Flag.jpg
 tags: [Canada, Finance]
 comments: true
