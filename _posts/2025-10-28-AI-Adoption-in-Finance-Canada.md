@@ -7,6 +7,8 @@ tags: [Canada, Finance]
 comments: true
 ---
 
+The Top Socio-Economic Trends Shaping Canada in 2024. This is the first part of the series discussing all aspects related to Canada.
+
 ## Workforce Exposure Overview
 
 ![Over half of Canadian workers (57.4%) are in jobs with high AI exposure, representing 10.71 million people.](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/ec41fc929ea602de6613cf90e85c6b20/7c2a6ab8-5f1a-4604-b75b-fb8c55bd47a5/5b5a9b5f.png)
