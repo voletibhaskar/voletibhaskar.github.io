@@ -99,6 +99,8 @@ These visualizations reveal that AI's impact on Canada's job market is creating 
 
 <div align="center">⁂</div>
 
+### Reference Links
+
 [^1]: https://lmic-cimt.ca/future-of-work/exposure-to-artificial-intelligence-in-canadian-jobs-experimental-estimates/
 
 [^2]: https://fsc-ccf.ca/wp-content/uploads/2025/09/canadas-workforce-in-transition_sept2025.pdf
