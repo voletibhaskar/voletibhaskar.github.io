@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Part2 - Impact of BOC Interest's Rate on Canada - 2026
-subtitle: Part2 - Bank of Canada Interest Rate Outlook & Housing Market Impact
+title: Impact of BOC Interest's Rate on Canada - 2026
+subtitle: Bank of Canada Interest Rate Outlook & Housing Market Impact
 cover-img: /assets/img/AI-Canada.jpg
 tags: [Canada, Finance]
 comments: true
@@ -17,7 +17,7 @@ The decision to pause reflects a delicate balancing act: inflation has moderated
 
 For Canada's housing market, 2026 emerges as a "reset year" characterized by divergent regional outcomes: Quebec City leads with a projected 12% price gain, while Toronto and Vancouver face 4.5% and 3.5% corrections respectively. Critically, 1.15 million homeowners will renew mortgages in 2026, with 60% facing payment increases averaging 15-20%—a payment shock that will test household resilience.
 
-<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8753c1904b537ab82f6dd6e8ae7197eb/32542744-0c4f-4176-8360-f0a7ee81b702/3cda7221.png" width="300" height="300" alt="Bank of Canada Policy Rate Evolution 2020-2026" />
+<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8753c1904b537ab82f6dd6e8ae7197eb/32542744-0c4f-4176-8360-f0a7ee81b702/3cda7221.png" alt="Bank of Canada Policy Rate Evolution 2020-2026" />
 
 *Figure 1: Bank of Canada Policy Rate Evolution: 2020-2026 showing the dramatic pandemic response, aggressive tightening cycle, and subsequent easing back to the neutral range.*
 
@@ -33,7 +33,7 @@ As inflation accelerated from 1.4% in early 2021 to a four-decade high of 8.1% b
 
 The easing cycle that followed was equally aggressive. Between June 2024 and October 2025, the Bank delivered nine rate cuts, bringing the rate to its current 2.25% level. The December 2025 hold marked the first pause, with Governor Tiff Macklem signaling that rates are now "at about the right level" to support the economy through structural adjustments.
 
-<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8753c1904b537ab82f6dd6e8ae7197eb/7ef7a7fd-fd02-452e-af4d-b8dd933687c4/2c5673b4.png" width="300" height="300" alt="Policy Rate vs Inflation" />
+<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8753c1904b537ab82f6dd6e8ae7197eb/7ef7a7fd-fd02-452e-af4d-b8dd933687c4/2c5673b4.png" alt="Policy Rate vs Inflation" />
 
 *Figure 2: Bank of Canada Policy Rate vs. Inflation (2020-2026): The aggressive monetary response to combat inflation from its 8.1% peak back to the 2% target.*
 
@@ -56,7 +56,7 @@ Financial markets and economists have converged on an exceptionally strong conse
 *   **Scotiabank Economics:** Maintain 2.25% into 2026 before potentially migrating toward 50 basis points of tightening in the second half.
 *   **National Bank of Canada:** Hold through at least the first half of the year, with a possible hike in Q4 2026.
 
-<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8753c1904b537ab82f6dd6e8ae7197eb/553a38fe-bd99-4aff-901f-b83373b4b345/1f0ca6e8.png" width="300" height="300" alt="Three Scenarios for Bank of Canada Rates" />
+<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8753c1904b537ab82f6dd6e8ae7197eb/553a38fe-bd99-4aff-901f-b83373b4b345/1f0ca6e8.png" alt="Three Scenarios for Bank of Canada Rates" />
 
 *Figure 3: Three Scenarios for Bank of Canada Rates in 2026: Base case hold dominates with 97.9% market probability.*
 
@@ -74,7 +74,7 @@ Financial markets and economists have converged on an exceptionally strong conse
 
 Monetary policy flows through the economy with long lags—typically 18-24 months. Understanding this timeline explains why housing starts remain low in 2026 despite rate cuts in 2024.
 
-<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8753c1904b537ab82f6dd6e8ae7197eb/ea502c0a-0e18-4e07-a2b4-9fdb8f285ae1/6d7a33ea.png" width="300" height="300" alt="Monetary Policy Transmission Timeline" />
+<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8753c1904b537ab82f6dd6e8ae7197eb/ea502c0a-0e18-4e07-a2b4-9fdb8f285ae1/6d7a33ea.png" alt="Monetary Policy Transmission Timeline" />
 
 *Figure 4: Monetary Policy Transmission Mechanism: The 18-24 month journey from Bank of Canada rate decisions to full economic impact on housing and GDP.*
 
@@ -98,7 +98,7 @@ Canadian housing markets will deliver radically different outcomes in 2026, larg
 *   **Prairie Resilience:** Calgary, Edmonton, and Regina expect steady growth (2-4%), supported by strong local economies and relative affordability.
 *   **Ontario and BC Corrections:** Toronto (-4.5%) and Vancouver (-3.5%) face continued corrections. Prices remain elevated relative to incomes, and inventory is rising as sellers adjust expectations.
 
-<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8753c1904b537ab82f6dd6e8ae7197eb/7e984054-bf07-40e9-9f65-1f4c12490ad1/b063ac17.png" width="300" height="300" alt="2026 Regional Housing Forecast" />
+<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8753c1904b537ab82f6dd6e8ae7197eb/7e984054-bf07-40e9-9f65-1f4c12490ad1/b063ac17.png" alt="2026 Regional Housing Forecast" />
 
 *Figure 5: 2026 Canadian Housing Market Forecast by Region: Quebec markets lead gains while Toronto and Vancouver face corrections.*
 
@@ -108,7 +108,7 @@ Canadian housing markets will deliver radically different outcomes in 2026, larg
 
 While broad market statistics tell one story, 1.15 million Canadian households renewing mortgages in 2026 face a personal reckoning. Roughly 60% of renewals in 2025-2026 will see payment increases, with the BoC estimating 15-20% higher payments on average.
 
-<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8753c1904b537ab82f6dd6e8ae7197eb/5e706a5d-154e-499d-bba1-b98ce8fe5bd9/3257cc8a.png" width="300" height="300" alt="Mortgage Payment Shock Table" />
+<img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/8753c1904b537ab82f6dd6e8ae7197eb/5e706a5d-154e-499d-bba1-b98ce8fe5bd9/3257cc8a.png" alt="Mortgage Payment Shock Table" />
 
 *Figure 6: Mortgage Payment Shock Analysis: Impact of rising interest rates on a $500,000 mortgage.*
 
